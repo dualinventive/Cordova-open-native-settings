@@ -52,7 +52,7 @@
 
 	<platform name="windows">
 		<js-module name="NativeSettingsProxy" src="src/windows/NativeSettingsProxy.js">
-			<merges target="" />
+			<merges target="NativeSettings" />
 		</js-module>
 	</platform>
 
